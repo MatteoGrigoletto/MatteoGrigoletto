@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteogrigoletto&label=Profile%20views&color=0e75b6&style=flat" alt="matteogrigoletto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteogrigoletto" alt="matteogrigoletto" /></a> </p>
-
 - 🌱 I’m currently learning **Reacts,next js and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MatteoGrigoletto](https://github.com/MatteoGrigoletto)
