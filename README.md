@@ -11,15 +11,15 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/matteo--grigoletto/](https://www.linkedin.com/in/matteo--grigoletto/)
 
-- 💬 Ask me about**
-  ◉ Vue
-  ◉ Css
-  ◉ Html
-  ◉ Javascript
-  ◉ MySql
-  ◉ Typescript
-  ◉Bootstrap
-  ◉ php**
+- 💬 Ask me about
+  **◉ Vue
+    ◉ Css
+    ◉ Html
+    ◉ Javascript
+    ◉ MySql
+    ◉ Typescript
+    ◉Bootstrap
+    ◉ php**
 
 - 📫 How to reach me **mttgrigoletto@gmail.com**
 
