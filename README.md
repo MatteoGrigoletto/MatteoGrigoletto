@@ -66,6 +66,12 @@
       </a>
       <br>Css
     </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/html-original.png" width="48" height="48" alt="Html" />
+      </a>
+      <br>Html
+    </td>
   </tr>
 </table>
 
