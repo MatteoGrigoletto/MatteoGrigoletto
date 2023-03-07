@@ -48,6 +48,8 @@
       </a>
       <br>Sass
     </td>
+  </tr>
+  <tr>
      <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
