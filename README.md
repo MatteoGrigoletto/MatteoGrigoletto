@@ -15,11 +15,10 @@
  - ◉ Vue
  - ◉ Css
  - ◉ Html
- - ◉ Javascript
+ - ◉ Javascript && Typescript
  - ◉ MySql
- - ◉ Typescript
- - ◉Bootstrap
- - ◉ php**
+ - ◉ Bootstrap
+ - ◉ php
 
 - 📫 How to reach me **mttgrigoletto@gmail.com**
 
