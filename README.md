@@ -26,11 +26,10 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;I'm currently working at **[unemployed]**
+- :seedling: &nbsp;I’m currently learning **React && Next js**
+- :mailbox: &nbsp;Ask me anything on my **[mttgrigoletto@gmail.com]**
+- :computer: &nbsp;Connect with me on **[https://www.linkedin.com/in/matteo--grigoletto/]**
 
 <br>
 
