@@ -56,7 +56,7 @@
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/vue-orignal.svg" width="48" height="48" alt="Vue" />
+        <img src="./img/vue-original.svg" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue
     </td>
