@@ -2,7 +2,7 @@
 <h3 align="left">I am a Front-end  Junior Developer</h3>
 
 <a href="#macropower-title">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="macropower" align="right" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="macropower" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **looking**
