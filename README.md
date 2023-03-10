@@ -1,10 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Matteo Grigoletto</h1>
 <h3 align="left">I am a Front-end  Junior Developer</h3>
 
-<a href="#macropower-title">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="macropower" align="right" />
-</a>
-
 - :office: &nbsp;I'm currently working at **looking**
 - :seedling: &nbsp;I’m currently learning **React && Next js**
 - :mailbox: &nbsp;Ask me anything on my **mttgrigoletto@gmail.com**
